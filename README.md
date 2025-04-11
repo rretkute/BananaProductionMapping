@@ -1,3 +1,3 @@
-# Leveraging high-resolution remote sensing data and surveys to model the spread of Banana Bunchy Top Disease
+# Developing a spatio-temporal model for Banana Bunchy Top Disease: leveraging remote sensing and survey data
 
 
